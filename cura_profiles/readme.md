@@ -1,0 +1,7 @@
+# My Cura Profiles
+I have three cura profiles I use during normal use. All three are slower and more conservative even than the standard speed Cura uses for the Ender 3 (I prioritize conservative accuracy over speed).
+
+My three Cura profiles are provided here and defined below:
+- [tah - fine.curaprofile](./tah%20-%20fine.curaprofile) - **(STANDARD)**: Despite the name of "fine" leading you to believe I only use this for fine (slow prints), this is the standard speed at which I normally print at. Most of my prints are rather small and therefore at least somewhat intricate with many curves (i.e. wheels for a rover), so this is in general my go-to.
+- [tah - extra fine.curaprofile](./tah%20-%20extra%20fine.curaprofile) - **(SLOWEST)** For prints that are especially small/intricate (where intricacy and accuracy is paramount and any deviation would be unacceptable), I use this profile. It is slower than *tah - fine* and I believe has a default infill density of 30% (higher than the standard 20%).
+- [tah - brisk.curaprofile](./tah%20-%20brisk.curaprofile) - **(FASTEST)** For prints that are somewhat larger than my normal prints and where accuracy is not a priority (there are very few curves/intricate designs), I use this. This is significantly faster than the *tah - fine* profile.
