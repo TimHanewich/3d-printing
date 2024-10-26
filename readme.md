@@ -1,6 +1,9 @@
 # 3D Printing Notes
 This repo is meant to be a notepad for me as I jot down tips/tricks I learned while 3D printing.
 
+## My Cura Profiles
+My Cura profiles can be found in [the cura_profiles folder](./cura_profiles/).
+
 ## Ensuring Quality Prints
 - Routine - should be done often (before every print or every 2/3 prints)
     - Remove bed plate, rub down with rubbing alcohol on towel.
