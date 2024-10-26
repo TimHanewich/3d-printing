@@ -15,8 +15,6 @@ My Cura profiles can be found in [the cura_profiles folder](./cura_profiles/).
 - Other tips
     - When removing PLA filament to do something like change colors, be sure to disable stepper motors.
 
-## Metric Screws
-The `Cylinderhead_screw_M6` model from [this](https://www.thingiverse.com/thing:3259952) post is **10x10mm**. If you would like to build a thread *into* another object that you can then screw this screw into, enlarge the screw to **12x12mm**. This provides enough room for the screw to fit into. Not enlarging the screw means the hole is not large enough to fit in.
-
 ## Noteable Models
 - Metric nuts and screws: https://www.thingiverse.com/thing:3259952
+    - The `Cylinderhead_screw_M6` model from [this](https://www.thingiverse.com/thing:3259952) post is **10x10mm**. If you would like to build a thread *into* another object that you can then screw this screw into, enlarge the screw to **12x12mm**. This provides enough room for the screw to fit into. Not enlarging the screw means the hole is not large enough to fit in.
