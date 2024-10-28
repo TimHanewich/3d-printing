@@ -7,7 +7,7 @@ My Cura profiles can be found in [the cura_profiles folder](./cura_profiles/).
 ## Ensuring Quality Prints
 - Routine - should be done often (before every print or every 2/3 prints)
     - Remove bed plate, rub down with rubbing alcohol on towel.
-    - Bed level
+    - Bed level - use [CHEP_bed_level.gcode](./CHEP_bed_level.gcode) to bed level.
 - Non-routine - only as needed
     - Unclog nozzle with needle
     - Replace nozzle if damaged
