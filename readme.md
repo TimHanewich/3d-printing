@@ -4,6 +4,17 @@ This repo is meant to be a notepad for me as I jot down tips/tricks I learned wh
 ## My Cura Profiles
 My Cura profiles can be found in [the cura_profiles folder](./cura_profiles/).
 
+## Blender Configuration
+I use Blender for all of my 3D designs. In blender, the `startup` and `userpref` files are `.blend` files that are automatically opened to restore the "defaults" that you've set. My startup and userpref files, provided below, are specifically configured for 3D printing.
+- [startup.blend](https://github.com/TimHanewich/3d-printing/releases/download/1/startup.blend)
+- [userpref.blend](https://github.com/TimHanewich/3d-printing/releases/download/1/userpref.blend)
+
+These should be placed in Blender's app data `config` folder. Example of my path to the `config` folder:
+
+```
+C:\Users\timh\AppData\Roaming\Blender Foundation\Blender\4.3\config
+```
+
 ## Ensuring Quality Prints
 - Routine - should be done often (before every print or every 2/3 prints)
     - Remove bed plate, rub down with rubbing alcohol on towel.
