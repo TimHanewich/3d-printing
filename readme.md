@@ -26,6 +26,9 @@ C:\Users\timh\AppData\Roaming\Blender Foundation\Blender\4.3\config
 - Other tips
     - When removing PLA filament to do something like change colors, be sure to disable stepper motors.
 
+## Misc. Tips
+- Use [this method](https://i.imgur.com/9Dn2ubp.png) in Blender to remove overlapping or very close together vertices. Works beautifully from my tests!
+
 ## Noteable Models
 - Metric nuts and screws: https://www.thingiverse.com/thing:3259952
     - The `Cylinderhead_screw_M6` model from [this](https://www.thingiverse.com/thing:3259952) post is **10x10mm**. If you would like to build a thread *into* another object that you can then screw this screw into, enlarge the screw to **12x12mm**. This provides enough room for the screw to fit into. Not enlarging the screw means the hole is not large enough to fit in.
